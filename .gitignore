@@ -1,0 +1,13 @@
+*.manifest
+*.pdb
+*.exe
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+backup
+.vs
+.vscode
+StockMonitor/BundleArtifacts/x64.txt
